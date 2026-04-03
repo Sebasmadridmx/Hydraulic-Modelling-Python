@@ -1,5 +1,17 @@
 # Hydraulic Modelling Python
 
+<div align="center">
+  <a href="https://buymeacoffee.com/smadrid">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+  <br/><br/>
+  <a href="https://buymeacoffee.com/smadrid">
+    <img src="https://raw.githubusercontent.com/Sebasmadridmx/Hydraulic-Modelling-Python/main/qr-code.png" width="250"/>
+  </a>
+</div>
+
+---
+
 A curated collection of Python examples, notebooks, and scripts focused on **hydraulic and wastewater network modelling workflows**. Each folder covers a specific library and demonstrates how it can be applied in the context of drainage engineering, flood analysis, catchment processing, and results visualisation.
 
 This repository is intended for hydraulic modellers looking to extend their toolkit beyond commercial software interfaces such as InfoWorks ICM, by leveraging Python for data processing, spatial analysis, and visualisation of modelling outputs.
@@ -179,12 +191,12 @@ Senior Hydraulic Modeller, Edinburgh
 
 If you find this repository useful, consider buying me a coffee. It helps keep this kind of open resource going for the hydraulic modelling community.
 
-<a href="https://buymeacoffee.com/smadrid">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-</a>
-
-&nbsp;
-
-<a href="https://buymeacoffee.com/smadrid">
-  <img src="https://raw.githubusercontent.com/Sebasmadridmx/Hydraulic-Modelling-Python/main/qr-code.png" width="150"/>
-</a>
+<div align="center">
+  <a href="https://buymeacoffee.com/smadrid">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+  <br/><br/>
+  <a href="https://buymeacoffee.com/smadrid">
+    <img src="https://raw.githubusercontent.com/Sebasmadridmx/Hydraulic-Modelling-Python/main/qr-code.png" width="250"/>
+  </a>
+</div>
