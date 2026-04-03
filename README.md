@@ -172,3 +172,11 @@ pip install pandas matplotlib seaborn plotly geopandas scipy folium shapely rast
 **Sebastian Madrid Ontiveros**
 Senior Hydraulic Modeller, Edinburgh
 [GitHub: Sebasmadridmx](https://github.com/Sebasmadridmx)
+
+---
+
+## Support
+
+If you find this repository useful, consider buying me a coffee. It helps keep this kind of open resource going for the hydraulic modelling community.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/smadrid)
