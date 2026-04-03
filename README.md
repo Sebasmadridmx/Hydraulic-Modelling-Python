@@ -179,4 +179,12 @@ Senior Hydraulic Modeller, Edinburgh
 
 If you find this repository useful, consider buying me a coffee. It helps keep this kind of open resource going for the hydraulic modelling community.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/smadrid)
+<a href="https://buymeacoffee.com/smadrid">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
+
+&nbsp;
+
+<a href="https://buymeacoffee.com/smadrid">
+  <img src="https://raw.githubusercontent.com/Sebasmadridmx/Hydraulic-Modelling-Python/main/qr-code.png" width="150"/>
+</a>
